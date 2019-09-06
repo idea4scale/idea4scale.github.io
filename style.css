@@ -657,6 +657,7 @@ input:-webkit-autofill:focus {
     -webkit-box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);
     box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);
     position: relative;
+    height: 100px;
 }
 
 .testimonial .testimonial-photo:after {
