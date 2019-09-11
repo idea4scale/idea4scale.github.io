@@ -427,9 +427,13 @@ input:-webkit-autofill:focus {
     opacity: 0.8
 }*/
 
-.header-text h2 {
+.header-text h1 {
     margin-bottom: 20px;
-    font-size: 40px;
+    font-size: 3em;
+}
+
+.header-text p {
+    font-size: 1.5em;
 }
 
 .header-text .button {
