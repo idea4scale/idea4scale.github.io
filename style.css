@@ -183,7 +183,7 @@ input:-webkit-autofill:focus {
     background-color: #3A4972;
 }
 
-.orange-bg p {
+.orange-bg p,h2,h3 {
     color: #ffffff;
     
 }
@@ -641,12 +641,6 @@ input:-webkit-autofill:focus {
     color: #3A4972;
 }
 
-.testimonial-area h3 h2 p {
-    /**background: url('images/gradient.png') no-repeat scroll center center / cover;**/
-    position: relative;
-    color: #ffffff;
-}
-
 .testimonial-area:before {
     opacity: 0.9
 }
@@ -655,19 +649,20 @@ input:-webkit-autofill:focus {
     text-align: center;
 }
 
-.testimonial .testimonial-photo {
-    margin-bottom: 20px;
-    display: inline-block;
-    margin-right: 30px;
-    border-radius: 50%;
+/**.testimonial .testimonial-photo {
+    
+    /**border-radius: 50%;
     -webkit-box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);
     box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);
     position: relative;
-}
+}**/
 
 .program-icon {
-	display: inline-block;
 	height: 40px;
+	margin-bottom: 20px;
+    display: inline-block;
+ 	margin-left: auto;
+  	margin-right: auto;
 }
 
 .testimonial .testimonial-photo:after {
