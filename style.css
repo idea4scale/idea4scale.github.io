@@ -151,8 +151,8 @@ input:-webkit-autofill:focus {
     height: 36px;
     text-align: center;
     line-height: 2.5em;
-    background-color: #D74A2A;
-    color: #138fc2;
+    background-color: #B5D1E8;
+    color: #D74A2A;
     border-radius: 100px;
     -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.1);
@@ -160,8 +160,8 @@ input:-webkit-autofill:focus {
 }
 
 .social-menu li a:hover {
-    background-color: #138fc2;
-    color: #D74A2A;
+    background-color: #D74A2A;
+    color: #B5D1E8;
     -webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.1);
 }
@@ -189,11 +189,11 @@ input:-webkit-autofill:focus {
 }
 
 .orange-bg span {
-    background-color: #FCA311;
+    background-color: #f7882f;
 }
 
 .gray-bg {
-    background-color: #EEE2DF;
+    background-color: #B5D1E8;
 }
 
 .teal-bg {
