@@ -180,7 +180,7 @@ input:-webkit-autofill:focus {
 }
 
 .orange-bg {
-    background-color: #3A4972;
+    background-color: #6b7a8f;
 }
 
 .orange-bg p,h2,h3 {
@@ -642,7 +642,7 @@ input:-webkit-autofill:focus {
 .testimonial-area {
     /**background: url('images/gradient.png') no-repeat scroll center center / cover;**/
     position: relative;
-    color: #3A4972;
+    color: #6b7a8f;
 }
 
 .testimonial-area:before {
